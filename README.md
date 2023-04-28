@@ -23,7 +23,7 @@ Basic rules of the network
    again will he be able to pass it on.
   
 # Installation
-    You can download the code by git clone: https://github.com/sigalgrabois/Computational-Biology-Ex1.git.<br>
+    You can download the code by git clone: https://github.com/sigalgrabois/Computational-Biology-Ex1.git.
     There are 2 options to run the code:
        1. In the folder there is an exe file for fast execution by double-clicking on: SpreadingRumor.exe.
        2. You can run the main.py file. in order to do so you will need the install by pip install the next libaries:
