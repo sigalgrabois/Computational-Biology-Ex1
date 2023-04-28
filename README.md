@@ -25,12 +25,12 @@ Basic rules of the network
 # Installation
     You can download the code by git clone: https://github.com/sigalgrabois/Computational-Biology-Ex1.git.<br>
     There are 2 options to run the code:
-     <br> 1. In the folder there is an exe file for fast execution by double-clicking on: SpreadingRumor.exe.
-     <br> 2. You can run the main.py file. in order to do so you will need the install by pip install the next libaries:
-     <br> * tkinter
-     <br> * numpy
-     <br> * random
-     <br> * matplotlib
+       1. In the folder there is an exe file for fast execution by double-clicking on: SpreadingRumor.exe.
+       2. You can run the main.py file. in order to do so you will need the install by pip install the next libaries:
+       * tkinter
+       * numpy
+       * random
+       * matplotlib
     
 # Usage
  The application has a configure bar for the purpose of studying the rate of spreading the rumor among the population<br>. The user can choose the following:<br>
